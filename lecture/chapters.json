@@ -1,0 +1,548 @@
+[
+  {
+    "slide": 1,
+    "id": "open1",
+    "title": "Understanding Fire Dynamics",
+    "start_seconds": 0.0,
+    "duration_seconds": 36.958
+  },
+  {
+    "slide": 2,
+    "id": "open2",
+    "title": "A Fire Is a Physics Problem With a Deadline",
+    "start_seconds": 36.958,
+    "duration_seconds": 37.208
+  },
+  {
+    "slide": 3,
+    "id": "intro1",
+    "title": "What Fire Dynamics Actually Studies",
+    "start_seconds": 74.167,
+    "duration_seconds": 40.042
+  },
+  {
+    "slide": 4,
+    "id": "intro2",
+    "title": "Why Industrial Firefighting Demands This Knowledge",
+    "start_seconds": 114.208,
+    "duration_seconds": 42.625
+  },
+  {
+    "slide": 5,
+    "id": "intro3",
+    "title": "Learning Outcomes for This Lecture",
+    "start_seconds": 156.833,
+    "duration_seconds": 46.583
+  },
+  {
+    "slide": 6,
+    "id": "def1",
+    "title": "Fire, Combustion and Flame",
+    "start_seconds": 203.417,
+    "duration_seconds": 48.708
+  },
+  {
+    "slide": 7,
+    "id": "def2",
+    "title": "Heat, Temperature and Thermal Energy",
+    "start_seconds": 252.125,
+    "duration_seconds": 44.292
+  },
+  {
+    "slide": 8,
+    "id": "def3",
+    "title": "Heat Release Rate: The Master Variable",
+    "start_seconds": 296.417,
+    "duration_seconds": 45.75
+  },
+  {
+    "slide": 9,
+    "id": "tetra1",
+    "title": "From the Triangle to the Tetrahedron",
+    "start_seconds": 342.167,
+    "duration_seconds": 48.833
+  },
+  {
+    "slide": 10,
+    "id": "tetra2",
+    "title": "Fuel: What Actually Burns",
+    "start_seconds": 391.0,
+    "duration_seconds": 49.208
+  },
+  {
+    "slide": 11,
+    "id": "tetra3",
+    "title": "Oxygen, Oxidisers and Radical Inhibition",
+    "start_seconds": 440.208,
+    "duration_seconds": 52.542
+  },
+  {
+    "slide": 12,
+    "id": "ht1",
+    "title": "Three Modes, Always Simultaneous",
+    "start_seconds": 492.75,
+    "duration_seconds": 47.333
+  },
+  {
+    "slide": 13,
+    "id": "ht2",
+    "title": "Conduction: The Hidden Path",
+    "start_seconds": 540.083,
+    "duration_seconds": 48.458
+  },
+  {
+    "slide": 14,
+    "id": "ht3",
+    "title": "Convection: Smoke Is the Delivery System",
+    "start_seconds": 588.542,
+    "duration_seconds": 49.5
+  },
+  {
+    "slide": 15,
+    "id": "ht4",
+    "title": "Radiation: The Distance Threat",
+    "start_seconds": 638.042,
+    "duration_seconds": 54.583
+  },
+  {
+    "slide": 16,
+    "id": "ht5",
+    "title": "Reading a Fire Through Its Heat Paths",
+    "start_seconds": 692.625,
+    "duration_seconds": 52.833
+  },
+  {
+    "slide": 17,
+    "id": "ign1",
+    "title": "Ignition Temperature and Piloted Ignition",
+    "start_seconds": 745.458,
+    "duration_seconds": 49.125
+  },
+  {
+    "slide": 18,
+    "id": "ign2",
+    "title": "Autoignition Temperature",
+    "start_seconds": 794.583,
+    "duration_seconds": 53.583
+  },
+  {
+    "slide": 19,
+    "id": "ign3",
+    "title": "Flash Point, Fire Point and Flammable Range",
+    "start_seconds": 848.167,
+    "duration_seconds": 48.625
+  },
+  {
+    "slide": 20,
+    "id": "stg1",
+    "title": "The Four Stages",
+    "start_seconds": 896.792,
+    "duration_seconds": 49.792
+  },
+  {
+    "slide": 21,
+    "id": "stg2",
+    "title": "Stage 1 — Incipient",
+    "start_seconds": 946.583,
+    "duration_seconds": 46.958
+  },
+  {
+    "slide": 22,
+    "id": "stg3",
+    "title": "Stage 2 — Growth",
+    "start_seconds": 993.542,
+    "duration_seconds": 50.833
+  },
+  {
+    "slide": 23,
+    "id": "stg4",
+    "title": "Stage 3 — Fully Developed",
+    "start_seconds": 1044.375,
+    "duration_seconds": 48.0
+  },
+  {
+    "slide": 24,
+    "id": "stg5",
+    "title": "Stage 4 — Decay and Its Traps",
+    "start_seconds": 1092.375,
+    "duration_seconds": 54.125
+  },
+  {
+    "slide": 25,
+    "id": "hrr1",
+    "title": "Typical Heat Release Rates",
+    "start_seconds": 1146.5,
+    "duration_seconds": 47.792
+  },
+  {
+    "slide": 26,
+    "id": "hrr2",
+    "title": "How HRR Is Measured",
+    "start_seconds": 1194.292,
+    "duration_seconds": 48.667
+  },
+  {
+    "slide": 27,
+    "id": "hrr3",
+    "title": "Why One Number Explains So Much",
+    "start_seconds": 1242.958,
+    "duration_seconds": 46.25
+  },
+  {
+    "slide": 28,
+    "id": "grw1",
+    "title": "The Time-Squared Fire",
+    "start_seconds": 1289.208,
+    "duration_seconds": 57.5
+  },
+  {
+    "slide": 29,
+    "id": "grw2",
+    "title": "Reading the Growth Curve",
+    "start_seconds": 1346.708,
+    "duration_seconds": 45.542
+  },
+  {
+    "slide": 30,
+    "id": "grw3",
+    "title": "Where the t-Squared Model Fails",
+    "start_seconds": 1392.25,
+    "duration_seconds": 45.125
+  },
+  {
+    "slide": 31,
+    "id": "smk1",
+    "title": "What Smoke Is Made Of",
+    "start_seconds": 1437.375,
+    "duration_seconds": 49.875
+  },
+  {
+    "slide": 32,
+    "id": "smk2",
+    "title": "Why Smoke Rises and Spreads",
+    "start_seconds": 1487.25,
+    "duration_seconds": 53.792
+  },
+  {
+    "slide": 33,
+    "id": "smk3",
+    "title": "Stratification, the Smoke Layer and the Neutral Plane",
+    "start_seconds": 1541.042,
+    "duration_seconds": 51.917
+  },
+  {
+    "slide": 34,
+    "id": "smk4",
+    "title": "Smoke and Visibility: The Practical Currency",
+    "start_seconds": 1592.958,
+    "duration_seconds": 46.75
+  },
+  {
+    "slide": 35,
+    "id": "plm1",
+    "title": "Anatomy of a Fire Plume",
+    "start_seconds": 1639.708,
+    "duration_seconds": 50.667
+  },
+  {
+    "slide": 36,
+    "id": "plm2",
+    "title": "The Ceiling Jet",
+    "start_seconds": 1690.375,
+    "duration_seconds": 51.417
+  },
+  {
+    "slide": 37,
+    "id": "plm3",
+    "title": "Building a Hot Layer",
+    "start_seconds": 1741.792,
+    "duration_seconds": 55.292
+  },
+  {
+    "slide": 38,
+    "id": "cmp1",
+    "title": "The Compartment as an Energy Balance",
+    "start_seconds": 1797.083,
+    "duration_seconds": 45.208
+  },
+  {
+    "slide": 39,
+    "id": "cmp2",
+    "title": "Ventilation: The Air Supply Sets the Ceiling",
+    "start_seconds": 1842.292,
+    "duration_seconds": 50.625
+  },
+  {
+    "slide": 40,
+    "id": "cmp3",
+    "title": "Openings Change the Fire",
+    "start_seconds": 1892.917,
+    "duration_seconds": 50.542
+  },
+  {
+    "slide": 41,
+    "id": "flo1",
+    "title": "Flashover",
+    "start_seconds": 1943.458,
+    "duration_seconds": 48.542
+  },
+  {
+    "slide": 42,
+    "id": "flo2",
+    "title": "Predicting Flashover",
+    "start_seconds": 1992.0,
+    "duration_seconds": 56.625
+  },
+  {
+    "slide": 43,
+    "id": "bck1",
+    "title": "Backdraft",
+    "start_seconds": 2048.625,
+    "duration_seconds": 56.875
+  },
+  {
+    "slide": 44,
+    "id": "phn1",
+    "title": "Other Phenomena You Must Recognise",
+    "start_seconds": 2105.5,
+    "duration_seconds": 60.75
+  },
+  {
+    "slide": 45,
+    "id": "fvc1",
+    "title": "Two Regimes, Two Behaviours",
+    "start_seconds": 2166.25,
+    "duration_seconds": 51.625
+  },
+  {
+    "slide": 46,
+    "id": "fvc2",
+    "title": "Diagnosing the Regime on the Fireground",
+    "start_seconds": 2217.875,
+    "duration_seconds": 49.708
+  },
+  {
+    "slide": 47,
+    "id": "spr1",
+    "title": "Five Mechanisms of Fire Spread",
+    "start_seconds": 2267.583,
+    "duration_seconds": 51.625
+  },
+  {
+    "slide": 48,
+    "id": "spr2",
+    "title": "Vertical and Horizontal Spread",
+    "start_seconds": 2319.208,
+    "duration_seconds": 53.292
+  },
+  {
+    "slide": 49,
+    "id": "spr3",
+    "title": "Storage, Dust and Process Escalation",
+    "start_seconds": 2372.5,
+    "duration_seconds": 54.542
+  },
+  {
+    "slide": 50,
+    "id": "mat1",
+    "title": "Reaction to Fire vs Fire Resistance",
+    "start_seconds": 2427.042,
+    "duration_seconds": 57.125
+  },
+  {
+    "slide": 51,
+    "id": "mat2",
+    "title": "Combustible Insulation and Composite Panels",
+    "start_seconds": 2484.167,
+    "duration_seconds": 56.292
+  },
+  {
+    "slide": 52,
+    "id": "mat3",
+    "title": "How Structure Responds",
+    "start_seconds": 2540.458,
+    "duration_seconds": 57.792
+  },
+  {
+    "slide": 53,
+    "id": "spc1",
+    "title": "Confined Spaces",
+    "start_seconds": 2598.25,
+    "duration_seconds": 48.375
+  },
+  {
+    "slide": 54,
+    "id": "spc2",
+    "title": "Large-Volume Industrial Spaces",
+    "start_seconds": 2646.625,
+    "duration_seconds": 60.208
+  },
+  {
+    "slide": 55,
+    "id": "mdl1",
+    "title": "Why We Model Fire",
+    "start_seconds": 2706.833,
+    "duration_seconds": 58.375
+  },
+  {
+    "slide": 56,
+    "id": "mdl2",
+    "title": "Inside a CFD Fire Model",
+    "start_seconds": 2765.208,
+    "duration_seconds": 64.75
+  },
+  {
+    "slide": 57,
+    "id": "mdl3",
+    "title": "Using Models Without Being Fooled by Them",
+    "start_seconds": 2829.958,
+    "duration_seconds": 53.583
+  },
+  {
+    "slide": 58,
+    "id": "calc0",
+    "title": "Five Calculations Every Officer Should Be Able to Do",
+    "start_seconds": 2883.542,
+    "duration_seconds": 45.542
+  },
+  {
+    "slide": 59,
+    "id": "calc1",
+    "title": "Fire Growth: From Ignition to Flashover Conditions",
+    "start_seconds": 2929.083,
+    "duration_seconds": 55.583
+  },
+  {
+    "slide": 60,
+    "id": "calc2",
+    "title": "Ventilation-Limited Burning",
+    "start_seconds": 2984.667,
+    "duration_seconds": 55.375
+  },
+  {
+    "slide": 61,
+    "id": "calc3",
+    "title": "Radiant Heat: Illustrative Flux Contours",
+    "start_seconds": 3040.042,
+    "duration_seconds": 59.125
+  },
+  {
+    "slide": 62,
+    "id": "calc4",
+    "title": "Flashover: How Much Energy, and How Soon?",
+    "start_seconds": 3099.167,
+    "duration_seconds": 60.875
+  },
+  {
+    "slide": 63,
+    "id": "calc5",
+    "title": "Water Flow: An Illustrative Energy Balance",
+    "start_seconds": 3160.042,
+    "duration_seconds": 62.542
+  },
+  {
+    "slide": 64,
+    "id": "case0",
+    "title": "Three Fires That Teach Fire Dynamics",
+    "start_seconds": 3222.583,
+    "duration_seconds": 51.583
+  },
+  {
+    "slide": 65,
+    "id": "case1",
+    "title": "West Pharmaceutical Services, Kinston, USA — 2003",
+    "start_seconds": 3274.167,
+    "duration_seconds": 59.292
+  },
+  {
+    "slide": 66,
+    "id": "case2",
+    "title": "Buncefield Oil Terminal, UK — 2005",
+    "start_seconds": 3333.458,
+    "duration_seconds": 58.25
+  },
+  {
+    "slide": 67,
+    "id": "case3",
+    "title": "Grenfell Tower, UK — 2017",
+    "start_seconds": 3391.708,
+    "duration_seconds": 63.792
+  },
+  {
+    "slide": 68,
+    "id": "case4",
+    "title": "What the Three Cases Have in Common",
+    "start_seconds": 3455.5,
+    "duration_seconds": 53.833
+  },
+  {
+    "slide": 69,
+    "id": "dem1",
+    "title": "The Scenario",
+    "start_seconds": 3509.333,
+    "duration_seconds": 51.583
+  },
+  {
+    "slide": 70,
+    "id": "dem2",
+    "title": "t = 0 to 3 min — Growth and the First Layer",
+    "start_seconds": 3560.917,
+    "duration_seconds": 46.5
+  },
+  {
+    "slide": 71,
+    "id": "dem3",
+    "title": "t = 3 to 6 min — Layer Descent and Lateral Spread",
+    "start_seconds": 3607.417,
+    "duration_seconds": 56.292
+  },
+  {
+    "slide": 72,
+    "id": "dem4",
+    "title": "t = 6 to 9 min — Ventilation Changes Everything",
+    "start_seconds": 3663.708,
+    "duration_seconds": 57.958
+  },
+  {
+    "slide": 73,
+    "id": "dem5",
+    "title": "t = 9 to 12 min — Decisions Under Uncertainty",
+    "start_seconds": 3721.667,
+    "duration_seconds": 63.917
+  },
+  {
+    "slide": 74,
+    "id": "tool1",
+    "title": "Reading the Fire Through Instruments",
+    "start_seconds": 3785.583,
+    "duration_seconds": 64.375
+  },
+  {
+    "slide": 75,
+    "id": "tool2",
+    "title": "A Size-Up Sequence Built on Physics",
+    "start_seconds": 3849.958,
+    "duration_seconds": 60.25
+  },
+  {
+    "slide": 76,
+    "id": "asm1",
+    "title": "Postgraduate Assessment Questions",
+    "start_seconds": 3910.208,
+    "duration_seconds": 65.583
+  },
+  {
+    "slide": 77,
+    "id": "close1",
+    "title": "Ten Lessons to Carry",
+    "start_seconds": 3975.792,
+    "duration_seconds": 68.542
+  },
+  {
+    "slide": 78,
+    "id": "close2",
+    "title": "Reading Fire, Not Watching It",
+    "start_seconds": 4044.333,
+    "duration_seconds": 53.458
+  }
+]
