@@ -1,0 +1,17 @@
+{
+  "duration_seconds": 4097.79,
+  "expected_seconds": 4097.792,
+  "bytes": 76639242,
+  "slides": 78,
+  "chapters": 78,
+  "video": "h264, 1600x900, 24 fps",
+  "audio": "AAC mono",
+  "checks": [
+    "duration within 2 seconds",
+    "expected video/audio streams",
+    "five representative frames decoded",
+    "complete audio stream decoded without reported error",
+    "78 embedded chapters counted in final MP4"
+  ],
+  "manual_review": "Visually inspected representative opening, flashover chart, corrected water chart, ventilation comparison and closing frames. Title/closing supersampling crop fixed and film reassembled. Not a complete scientific/operational content certification."
+}

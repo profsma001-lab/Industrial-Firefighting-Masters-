@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+lecture/media/*_silent.mp4
+lecture/media/*_audio.wav
+lecture/media/*_a.txt
+lecture/media/*_v.txt
+# Large rendered deliverables are kept in the workspace / Drive, not in git history
+lecture/media/*.mp4
+lecture/media/*.pdf
